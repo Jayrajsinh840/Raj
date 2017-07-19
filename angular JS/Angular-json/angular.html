@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>$cache Factory</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+	<script src="script/angular.js"></script>
+	
+	<script src="script/controller.js"></script>
+</head>
+<body ng-app="myapp">
+<div ng-controller="mycontrol">
+
+key:<input type="text" ng-model="key">
+value:<input type="text" ng-model="value">
+<button ng-click="addtocache(key,value)">Add to cache</button>
+
+key to read:<input type="text" ng-model="keytoread">
+value:<h2> value from cache us:{{readfromcache(keytoread)}}</h2>
+
+<h2>stats:{{getcachestats()}}</h2>
+
+</div>
+</body>
+</html>

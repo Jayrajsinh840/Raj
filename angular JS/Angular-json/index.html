@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+	<script src="script/myapp.js"></script>\
+		<script src="script/javascript.js"></script>
+	
+
+
+	<link rel="stylesheet" href="style/CSS.css">
+</head>
+<body ng-app="myapp">
+
+<div ng-controller="mycontrol">
+
+
+<!-- <p> {{users.allProducts}} </p> -->
+
+
+
+<div ng-repeat="x in users.allProducts" id="raj">
+	<p>{{x.productdiscription}}</p>
+	<p>{{x.shippingdetails}}</p>
+	<p>{{x.custmerreviews}}</p>
+	<p>{{x.price}}</p>
+	<p>{{x.imagepath}}</p>
+	<p>{{x.stockavailability}}</p>
+	<p>{{x.noofitems}}</p>
+</div>
+</div>
+
+</body>
+</html>

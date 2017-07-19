@@ -1,0 +1,61 @@
+body {
+	 background-color: 	#A9A9A9;
+	  }
+
+
+
+h1{
+	color:pink;
+	font-size: 72px;
+    font-family: Helvetica;
+    text-shadow: red 10px 5px 10px;
+}
+#name1
+{
+	color: #6495ED;
+}
+#name2
+{
+	color: 	#0000CD;
+}
+
+.underline{ text-decoration: underline; }
+h2 { border-bottom: 2px solid black; }
+
+#pt{
+	color: green;
+	font-size: 20px;
+	font-family: Helvetica;
+	font-weight: lighter;
+
+}
+a: hover{
+	color: red;	
+}
+
+img {
+    border-radius: 50%;
+}
+td {
+    height: 50px;
+    vertical-align: bottom;
+}
+tr:nth-child(even) {background-color: #FFD700}
+
+input{
+	background-color: yellow;
+}
+.Raj{
+	color: 	#7FFF00;
+	font-style: italic;
+}
+.Raj.area{
+	color: red;
+}
+.jay{
+	font-size: 20px;
+	font-family: Helvetica;
+}
+.jay.area2{
+	color: orange;
+ }

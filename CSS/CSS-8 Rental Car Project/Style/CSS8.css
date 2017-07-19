@@ -1,0 +1,1372 @@
+body{
+	background-image: url(../Images/bg-grad.gif);
+	background-repeat: repeat;
+}
+.topmain{
+	border:transparent;
+	border-radius: 2px;
+	height:1600px;
+	width: 1300px;
+	margin-left:auto;
+	margin-right: auto;
+}
+.mainHeader{
+	border:transparent;
+	border-radius: 2px;
+    height:90px;
+	width: 1300px;
+	background-image: url(../Images/adv_bg.jpg);
+	background-repeat: repeat;
+
+}
+.advantage{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 300px;
+	margin-left: -300px;
+	margin-top: 10px;
+	display: inline-block;
+}
+.searchmainbox{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 450px;
+	margin-left:300px;
+	margin-top: 5px;
+	display: inline-block;
+}
+.country{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 140px;
+	display: inline-block;
+	float: left;
+}
+.launguage{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 140px;
+	display: inline-block;
+	float: left;
+}
+.searchbox{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 140px;
+	display: inline-block;
+	float: left;
+
+}
+.Image{
+	border:transparent;
+	border-radius: 2px;
+	height:22px;
+	width: 22px;
+	display: inline-block;
+	float: left;
+	margin-left: 90px;
+	margin-top: -20px;
+}
+.rent{
+	border:transparent;
+	border-radius: 2px;
+	height:20px;
+	width: 150px;
+	float: left;
+	margin-top:60px;
+	margin-left: 200px;
+	display: inline-block;
+}
+.navdiv{
+	border:transparent;
+	border-radius: 2px;
+	height:40px;
+	width: 1300px;
+	background-color: #99ffcc;
+
+}
+nav{
+
+width: 1300px;
+height: 50px;
+margin: 20px 20px 30px 20px;
+background-color: #99ffcc;
+margin-left:auto;
+margin-right:auto;
+/*background-image: url(../Images/adv_bg.jpg);*/
+background-repeat: repeat;
+
+
+}
+nav ul li {
+	list-style: none;
+	float: left;
+	margin-left: 50px;
+	margin-top:15px;
+
+}
+ul li a:hover{
+
+  background-color: #99ffcc;
+  color: grey;
+}
+nav li a{
+	font-size: 15px;
+	text-decoration: none;
+	
+}
+.stepdiv{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 1300px;
+	padding-top: 20px;
+}
+.stepone{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 250px;
+	background-color: #99ffcc;
+	float: left;
+	display: inline-block;
+}
+.one{
+	margin-left:140px;
+}
+.steponeimage{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 40px;
+	display: inline-block;
+	vertical-align: top;
+}
+.steptwo{
+	border:transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 350px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: -5px;
+	color: white;
+	background-color: #1a75ff;
+
+
+}
+.two{
+	margin-left: 50px;
+
+}
+.steptwoimage{
+	border: transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 40px;
+	display: inline-block;
+	margin-left: -5px;
+}
+.stepthree{
+	border: transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 250px;
+	display: inline-block;
+	vertical-align: top;
+}
+.three{
+	margin-left: 160px;
+}
+.stepfour{
+	border: transparent;
+	border-radius: 2px;
+	height:50px;
+	width: 250px;
+	display: inline-block;
+	vertical-align: top;
+}
+.stepfour{
+	margin-left: 100px
+}
+.carsdiv{
+	border:transparent;
+    border-radius: 2px;
+	height:1010px;
+	width: 900px;
+	display: inline-block;
+	vertical-align: top;
+}
+.tine{
+	border:transparent;
+    border-radius: 2px;
+	height:1010px;
+	width: 350px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top:0px;
+}
+
+.whiteline{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:880px;
+	vertical-align: top;
+	margin-left: 10px;
+	
+	
+}
+.pricediv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:210px;
+	display: inline-block;
+	vertical-align: top;
+
+
+}
+.carphotodiv{
+	border: transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+
+	
+}
+.infodiv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+}
+.fourdetail{
+
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:190px;
+	display: inline-block;
+	vertical-align: top;
+}
+.pricedivinner{
+	border:transparent;
+    border-radius: 2px;
+	height:60px;
+	width:200px;
+
+
+}
+.oneone{
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.button{
+	background-color: #8080ff;
+	font-size: 25px;
+	width: 150px;
+	margin-left: 30px;
+}
+.total{
+	border:transparent;
+    border-radius: 2px;
+	height:30px;
+	width:225px;
+}
+.totalinner{
+	font-size: 20px;
+	margin-left:35px;
+	margin-top:1px;
+
+}
+.pictureofcar{
+	border: transparent;
+	height: 100px;
+	width: 225;
+}
+.Extrasmall{
+	border: transparent;
+	height: 30px;
+	width: 225px;
+}
+.sizeofcar{
+	margin-left: 40px;
+	margin-top: -1px;
+}
+.mistakeone{
+	border: transparent;
+	height: 130px;
+	width: 50px;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+.passenger{
+	border: transparent;
+	height: 25px;
+	width: 20px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengertwo{
+	border: transparent;
+	height: 25px;
+	width: 30px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengerthree{
+	border: transparent;
+	height: 25px;
+	width: 40px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+
+.mistaketwo{
+	border: transparent;
+	height: 130px;
+	width: 140px;
+	margin-left:5px;
+	display: inline-block;
+}
+.fourdetailone{
+	border: transparent;
+	height: 130px;
+	width: 180px;
+	margin-left:5px;
+	
+}
+
+/*from here car-2 is started*/
+
+.whiteline{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:880px;
+	vertical-align: top;
+	margin-left: 10px;
+
+}
+.pricediv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:210px;
+	display: inline-block;
+	vertical-align: top;
+
+
+}
+.carphotodiv{
+	border: transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+
+	
+}
+.infodiv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+}
+.fourdetail{
+
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:190px;
+	display: inline-block;
+	vertical-align: top;
+}
+.pricedivinner{
+	border:transparent;
+    border-radius: 2px;
+	height:60px;
+	width:200px;
+
+
+}
+.oneone{
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.button{
+	background-color: #8080ff;
+	font-size: 25px;
+	width: 150px;
+	margin-left: 30px;
+}
+.total{
+	border:transparent;
+    border-radius: 2px;
+	height:30px;
+	width:225px;
+}
+.totalinner{
+	font-size: 20px;
+	margin-left:35px;
+	margin-top:1px;
+
+}
+.pictureofcar{
+	border: transparent;
+	height: 100px;
+	width: 225;
+}
+.Extrasmall{
+	border: transparent;
+	height: 30px;
+	width: 225px;
+}
+.sizeofcar{
+	margin-left: 40px;
+	margin-top: -1px;
+}
+.mistakeone{
+	border: transparent;
+	height: 130px;
+	width: 50px;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+.passenger{
+	border: transparent;
+	height: 25px;
+	width: 20px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengertwo{
+	border: transparent;
+	height: 25px;
+	width: 30px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengerthree{
+	border: transparent;
+	height: 25px;
+	width: 40px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+
+.mistaketwo{
+	border: transparent;
+	height: 130px;
+	width: 140px;
+	margin-left:5px;
+	display: inline-block;
+}
+.fourdetailone{
+	border: transparent;
+	height: 130px;
+	width: 180px;
+	margin-left:5px;
+	
+}
+
+
+/*from here cars3 code is started*/
+
+
+.whiteline{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:880px;
+	vertical-align: top;
+	margin-left: 10px;
+	background-
+
+}
+.pricediv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:210px;
+	display: inline-block;
+	vertical-align: top;
+
+
+}
+.carphotodiv{
+	border: transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+
+	
+}
+.infodiv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+}
+.fourdetail{
+
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:190px;
+	display: inline-block;
+	vertical-align: top;
+}
+.pricedivinner{
+	border:transparent;
+    border-radius: 2px;
+	height:60px;
+	width:200px;
+
+
+}
+.oneone{
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.button{
+	background-color: #8080ff;
+	font-size: 25px;
+	width: 150px;
+	margin-left: 30px;
+}
+.total{
+	border:transparent;
+    border-radius: 2px;
+	height:30px;
+	width:225px;
+}
+.totalinner{
+	font-size: 20px;
+	margin-left:35px;
+	margin-top:1px;
+
+}
+.pictureofcar{
+	border: transparent;
+	height: 100px;
+	width: 225;
+}
+.Extrasmall{
+	border: transparent;
+	height: 30px;
+	width: 225px;
+}
+.sizeofcar{
+	margin-left: 40px;
+	margin-top: -1px;
+}
+.mistakeone{
+	border: transparent;
+	height: 130px;
+	width: 50px;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+.passenger{
+	border: transparent;
+	height: 25px;
+	width: 20px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengertwo{
+	border: transparent;
+	height: 25px;
+	width: 30px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengerthree{
+	border: transparent;
+	height: 25px;
+	width: 40px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+
+.mistaketwo{
+	border: transparent;
+	height: 130px;
+	width: 140px;
+	margin-left:5px;
+	display: inline-block;
+}
+.fourdetailone{
+	border: transparent;
+	height: 130px;
+	width: 180px;
+	margin-left:5px;
+	
+}
+
+
+/*from here car four code is started*/
+
+
+
+
+.whiteline{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:880px;
+	vertical-align: top;
+	margin-left: 10px;
+
+}
+.pricediv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:210px;
+	display: inline-block;
+	vertical-align: top;
+
+
+}
+.carphotodiv{
+	border: transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+
+	
+}
+.infodiv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+}
+.fourdetail{
+
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:190px;
+	display: inline-block;
+	vertical-align: top;
+}
+.pricedivinner{
+	border:transparent;
+    border-radius: 2px;
+	height:60px;
+	width:200px;
+
+
+}
+.oneone{
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.button{
+	background-color: #8080ff;
+	font-size: 25px;
+	width: 150px;
+	margin-left: 30px;
+}
+.total{
+	border:transparent;
+    border-radius: 2px;
+	height:30px;
+	width:225px;
+}
+.totalinner{
+	font-size: 20px;
+	margin-left:35px;
+	margin-top:1px;
+
+}
+.pictureofcar{
+	border: transparent;
+	height: 100px;
+	width: 225;
+}
+.Extrasmall{
+	border: transparent;
+	height: 30px;
+	width: 225px;
+}
+.sizeofcar{
+	margin-left: 40px;
+	margin-top: -1px;
+}
+.mistakeone{
+	border: transparent;
+	height: 130px;
+	width: 50px;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+.passenger{
+	border: transparent;
+	height: 25px;
+	width: 20px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengertwo{
+	border: transparent;
+	height: 25px;
+	width: 30px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengerthree{
+	border: transparent;
+	height: 25px;
+	width: 40px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+
+.mistaketwo{
+	border: transparent;
+	height: 130px;
+	width: 140px;
+	margin-left:5px;
+	display: inline-block;
+}
+.fourdetailone{
+	border: transparent;
+	height: 130px;
+	width: 180px;
+	margin-left:5px;
+	
+}
+
+/*from here car five code is started*/
+
+.whiteline{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:880px;
+	vertical-align: top;
+	margin-left: 10px;
+
+}
+.pricediv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:210px;
+	display: inline-block;
+	vertical-align: top;
+
+
+}
+.carphotodiv{
+	border: transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+
+	
+}
+.infodiv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+}
+.fourdetail{
+
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:190px;
+	display: inline-block;
+	vertical-align: top;
+}
+.pricedivinner{
+	border:transparent;
+    border-radius: 2px;
+	height:60px;
+	width:200px;
+
+
+}
+.oneone{
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.button{
+	background-color: #8080ff;
+	font-size: 25px;
+	width: 150px;
+	margin-left: 30px;
+}
+.total{
+	border:transparent;
+    border-radius: 2px;
+	height:30px;
+	width:225px;
+}
+.totalinner{
+	font-size: 20px;
+	margin-left:35px;
+	margin-top:1px;
+
+}
+.pictureofcar{
+	border: transparent;
+	height: 100px;
+	width: 225;
+}
+.Extrasmall{
+	border: transparent;
+	height: 30px;
+	width: 225px;
+}
+.sizeofcar{
+	margin-left: 40px;
+	margin-top: -1px;
+}
+.mistakeone{
+	border: transparent;
+	height: 130px;
+	width: 50px;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+.passenger{
+	border: transparent;
+	height: 25px;
+	width: 20px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengertwo{
+	border: transparent;
+	height: 25px;
+	width: 30px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengerthree{
+	border: transparent;
+	height: 25px;
+	width: 40px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+
+.mistaketwo{
+	border: transparent;
+	height: 130px;
+	width: 140px;
+	margin-left:5px;
+	display: inline-block;
+}
+.fourdetailone{
+	border: transparent;
+	height: 130px;
+	width: 180px;
+	margin-left:5px;
+	
+}
+
+ 
+ /*from here car six code is started*/
+
+
+.whiteline{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:880px;
+	vertical-align: top;
+	margin-left: 10px;
+	background-image: url(../Images/adv_bg.jpg); 
+	background-repeat: repeat;
+
+}
+.pricediv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:210px;
+	display: inline-block;
+	vertical-align: top;
+
+
+}
+.carphotodiv{
+	border: transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+
+	
+}
+.infodiv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+}
+.fourdetail{
+
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:190px;
+	display: inline-block;
+	vertical-align: top;
+}
+.pricedivinner{
+	border:transparent;
+    border-radius: 2px;
+	height:60px;
+	width:200px;
+
+
+}
+.oneone{
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.button{
+	background-color: #8080ff;
+	font-size: 25px;
+	width: 150px;
+	margin-left: 30px;
+}
+.total{
+	border:transparent;
+    border-radius: 2px;
+	height:30px;
+	width:225px;
+}
+.totalinner{
+	font-size: 20px;
+	margin-left:35px;
+	margin-top:1px;
+
+}
+.pictureofcar{
+	border: transparent;
+	height: 100px;
+	width: 225;
+}
+.Extrasmall{
+	border: transparent;
+	height: 30px;
+	width: 225px;
+}
+.sizeofcar{
+	margin-left: 40px;
+	margin-top: -1px;
+}
+.mistakeone{
+	border: transparent;
+	height: 130px;
+	width: 50px;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+.passenger{
+	border: transparent;
+	height: 25px;
+	width: 20px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengertwo{
+	border: transparent;
+	height: 25px;
+	width: 30px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengerthree{
+	border: transparent;
+	height: 25px;
+	width: 40px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+
+.mistaketwo{
+	border: transparent;
+	height: 130px;
+	width: 140px;
+	margin-left:5px;
+	display: inline-block;
+}
+.fourdetailone{
+	border: transparent;
+	height: 130px;
+	width: 180px;
+	margin-left:5px;
+	
+}
+
+
+/*from here last car car 7 code is started*/
+
+
+.whiteline{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:880px;
+	vertical-align: top;
+	margin-left: 10px;
+	background-image: url(../Images/adv_bg.jpg); 
+	background-repeat: no-repeat;
+}
+.pricediv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:210px;
+	display: inline-block;
+	vertical-align: top;
+
+
+}
+.carphotodiv{
+	border: transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+
+	
+}
+.infodiv{
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:225px;
+	display: inline-block;
+	vertical-align: top;
+}
+.fourdetail{
+
+	border:transparent;
+    border-radius: 2px;
+	height:140px;
+	width:190px;
+	display: inline-block;
+	vertical-align: top;
+}
+.pricedivinner{
+	border:transparent;
+    border-radius: 2px;
+	height:60px;
+	width:200px;
+
+
+}
+.oneone{
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.button{
+	background-color: #8080ff;
+	font-size: 25px;
+	width: 150px;
+	margin-left: 30px;
+}
+.total{
+	border:transparent;
+    border-radius: 2px;
+	height:30px;
+	width:225px;
+}
+.totalinner{
+	font-size: 20px;
+	margin-left:35px;
+	margin-top:1px;
+
+}
+.pictureofcar{
+	border: transparent;
+	height: 100px;
+	width: 225;
+}
+.Extrasmall{
+	border: transparent;
+	height: 30px;
+	width: 225px;
+}
+.sizeofcar{
+	margin-left: 40px;
+	margin-top: -1px;
+}
+.mistakeone{
+	border: transparent;
+	height: 130px;
+	width: 50px;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+.passenger{
+	border: transparent;
+	height: 25px;
+	width: 20px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengertwo{
+	border: transparent;
+	height: 25px;
+	width: 30px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+.passengerthree{
+	border: transparent;
+	height: 25px;
+	width: 40px;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+
+.mistaketwo{
+	border: transparent;
+	height: 130px;
+	width: 140px;
+	margin-left:5px;
+	display: inline-block;
+}
+.fourdetailone{
+	border: transparent;
+	height: 130px;
+	width: 180px;
+	margin-left:5px;
+	
+}
+.satalite{
+	border: transparent;
+	height: 1000px;
+	width: 340px;
+	margin-left: 5px;
+}
+.sataliteone{
+	border: transparent;
+	height: 500px;
+	width: 340px;
+	background-color: #b3ffff;
+}
+.satalitetwo{
+	border: transparent;
+	height: 250px;
+	width: 340px;
+}
+h1{
+	color: #e6ffe6;
+
+
+}
+#JK{
+	margin-left: 90px;
+	margin-top: -135px;
+	font-size: 80px;
+}
+
+/*from here footer section is started*/
+.footermaindiv{
+	border: transparent;
+	height: 300px;
+	width: 1300px;
+	background-color: #b3ffff;
+}
+.footerone{
+	border: transparent;
+	height: 300px;
+	width: 400px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #b3ffff;
+}
+.footertwo{
+	border: transparent;
+	height: 300px;
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #b3ffff;
+
+}
+.footerthree{
+	border: transparent;
+	height: 300px;
+	width: 250px;
+	display: inline-block;
+	background-color: #b3ffff;
+	vertical-align: top;
+}
+.footerfour{
+	border: transparent;
+	height: 300px;
+	width: 250px;
+	display: inline-block;
+	background-color: #b3ffff;
+	vertical-align: top;
+}
+.connected{
+	border: transparent;
+	height: 40px;
+	width: 400px;
+}
+.submitfooter{
+	border: transparent;
+	height: 70px;
+	width: 400px;
+}
+.socialmedia{
+	border: transparent;
+	height: 60px;
+	width: 400px;
+
+}
+.mobilephone{
+	border: transparent;
+	height: 70px;
+	width: 400px;
+}
+.subconnected{
+	margin-left: 30px;
+}
+.singupone{
+	border: transparent;
+	height: 50px;
+	width: 280px;
+	display: inline-block;
+}
+.singuptwo{
+	border: transparent;
+	height: 50px;
+	width: 100px;
+	display: inline-block;
+	vertical-align: top;
+}
+.footerbutton{
+	background-color: #8080ff;
+	font-size: 15px;
+	width: 120px;
+	height: 45px;
+
+}
+.emailclass{
+	height: 40px;
+	width: 280px;
+	font-size: 15px;
+}
+.android{
+border: transparent;
+height: 60px;
+width: 60px;
+display: inline-block;
+
+}
+.facebook{
+border: transparent;
+height: 60px;
+width: 60px;
+display: inline-block;
+margin-left: 8px;
+}
+.twitter{
+border: transparent;
+height: 60px;
+width: 60px;
+display: inline-block;
+margin-left: 8px;
+}
+.youtube{
+border:transparent;
+height: 60px;
+width: 60px;
+display: inline-block;
+margin-left: 8px;
+}
+.phoneone{
+border: transparent;
+height: 70px;
+width: 60px;
+display: inline-block;
+margin-top: 5px;
+}
+.phonetwo{
+border: transparent;
+height: 50px;
+width: 300px;
+display: inline-block;
+vertical-align: top;
+margin-top: 10px;
+font-size: 20px;
+}
+.twotwotwo{
+	margin-left: 30px;
+}
+.threethree{
+	margin-left: 30px;
+}
+.last{
+	border: transparent;
+	height: 30px;
+	width: 1200px;
+	margin-left: 140px;
+}

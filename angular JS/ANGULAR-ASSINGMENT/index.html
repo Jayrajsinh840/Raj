@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+	 <script src="script/app.js"></script>
+	  <script src="script/controller.js"></script>
+	    <script src="script/controllerone.js"></script>
+</head>
+<body ng-app="myapp">
+<div ng-controller="newctrl">
+	<input type="text" ng-model="myinput">
+	{{myinput}}
+</div><br>
+
+<div ng-controller="newctrl11">
+	<input type="text" ng-model="myinput">
+	{{myinput}}
+</div><br>
+<div ng-controller="newctrl22">
+	<input type="text" ng-model="myinput">
+	{{myinput}}
+</div><br><br>
+
+
+
+
+<div ng-controller="mycontrol67">
+
+<select ng-model="name">
+<option name="fname" value="fname">FirstName</option>
+<option name="Age" value="lname">Age</option>
+<option name="Gender" value="fname">Gender</option>
+<option name="height" value="lname">height</option>
+</select>
+
+
+<table>
+<tr>
+<th>FNAME</th>
+<th>AGE</th>
+<th>GENDER</th>
+<th>HEIGHT</th>
+</tr>
+
+<tr ng-repeat="x in arr12 | orderBy:name">
+
+<td> {{x.fname}} </td>
+<td> {{x.age}} </td>
+<td> {{x.gender}} </td>
+<td> {{x.height}} </td>
+</tr>
+</table>
+
+
+
+
+
+</div> 
+
+
+<h1>this is dot noation</h1>
+<div ng-controller="mycontrol">                  <!-- this is the dot natation -->
+<div>
+	<p>{{users.glossary.title}}</p>
+	<p>{{users.glossary.GlossDiv.title}}</p>
+	<p>{{users.glossary.GlossDiv.GlossList.GlossEntry.ID}}</p>
+	<p>{{users.glossary.GlossDiv.GlossList.GlossEntry.SortAs}}</p>
+	<p>{{users.glossary.GlossDiv.GlossList.GlossEntry.GlossTerm}}</p>
+	
+
+</div>	
+</div>
+</body>
+</html>

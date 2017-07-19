@@ -1,0 +1,186 @@
+body{
+	background:white;
+}
+.wrapper{
+	border:2px white;
+	border-radius: 2px;
+	height: 600px;
+	width: 1200px;
+	margin-left:auto;
+	margin-right: auto;
+	background-color: #809fff;
+}
+/*.trust{
+	border:1px solid black;
+	border-radius: 1px;
+	height: 40px;
+	width: 200px;
+
+}
+.continue{
+border:1px solid black;
+	border-radius: 1px;
+	height: 40px;
+	width: 200px;
+
+}
+*/
+.Innerwrapper{
+	border:transparent;
+	height: 450px;
+	width: 1000px;
+	position: absolute;
+	margin-left: 90px;
+	margin-top:40px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+}
+.heading{
+	border:transparent;
+	height: 70px;
+	width: 700px;
+	position: absolute;
+	margin-left: 100px;
+	margin-top:40px;
+	border-radius: 10px;
+}
+.Name{
+	border:transparent;
+	height:150px;
+	width: 250px;
+	position: absolute;
+	margin-left:40px;
+	margin-top: 150px;
+	background-color: #990099;
+	border-radius: 10px;
+}
+
+
+.DOB{
+	border:2px solid black;
+	border-radius: 10px;
+	height:150px;
+	width: 250px;
+	position: absolute;
+    margin-left:350px;
+	margin-top: 150px;
+	background-color: #990099;
+}
+.Address{
+	border:2px solid black;
+	border-radius: 10px;
+	height:150px;
+	width: 250px;
+	vertical-align: top;
+	margin-left:650px;
+	margin-top: 150px;
+	background-color: #990099;
+}
+.Information{
+    border:2px solid black;
+	border-radius: 10px;
+	height:70px;
+	width: 334px;
+	margin-top: 50px;
+	margin-left: 250px;
+	background-image: url(../Images/quotebenefits.jpg);
+
+
+}
+.Namebox{
+	border:2px solid black;
+	border-radius: 10px;
+	height:100px;
+	width: 230px;
+	margin-left:5px;
+	margin-top:-15px;
+	background-color: white;
+}
+.DOBbox{
+	border:2px solid black;
+	border-radius: 10px;
+	height:100px;
+	width: 230px;
+	margin-left:5px;
+	margin-top:-15px;
+	background-color: white;
+}
+.Addressbox{
+	border:2px solid black;
+	border-radius: 10px;
+	height:100px;
+	width: 230px;
+	margin-left:5px;
+	margin-top:-15px;
+	background-color: white;
+}
+.Trust{
+	border-radius: 2px;
+	height: 50px;
+	width: 400px;
+	position: absolute;
+	margin-left: 10px;
+	margin-top:470px;
+	border:transparent;
+	/*background-image: url(../Images/trust.png);*/
+}
+.trustImage{
+	display: inline-block;
+
+}
+.Continue{
+	height: 35px;
+	width: 140px;
+	position: absolute;
+}
+h3{
+	color: orange;
+	margin-left: 250px;
+	font-size: 35px;
+	margin-top: -40px;
+}
+h4{
+	color: blue;
+	margin-left: 250px;
+	margin-top: -40px;
+}
+.JJJ{
+	color: white;
+	margin-left: 200px;
+	display: inline-block;
+	float: left;
+	font-size: 10px;
+}
+.continueButton{
+	height:50px;
+	width: 200px;
+	border-radius: 2px;
+	border:2px;
+	background-color: transparent;
+	position: absolute;
+	margin-bottom: 50px;
+	margin-right: 500px;
+}
+.birthDate{
+margin-left: 35px;
+margin-top: 35px;
+}
+.middleName{
+	display: inline-block;
+}
+./*FN{
+	display: inline-block;
+}*/
+.Add{
+	display: inline-block;
+}
+.born{
+	color: white;
+}
+.name{
+	color: white;
+}
+.addresscolor{
+	color: white;
+}

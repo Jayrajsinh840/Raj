@@ -1,0 +1,53 @@
+body
+{
+	background-color: aqua;
+} 
+.Main{
+	border:2px solid black;
+	width:80%;
+	height:800px;
+}
+.childone{
+	border:2px solid green;
+	width:150px;
+	height:100px;
+	display:inline-block;
+	position: relative;
+	left:100px;
+	top:50px;
+	/*float: left;*/
+	/*padding: 5px;
+	margin: 100px 20px 30px 100px ;*/
+}
+.childTwo{
+	border:2px solid red;
+	width:150px;
+	height:100px;
+	display:inline-block;
+	position: relative;
+	left:300px;
+	top:50px;
+	/*float: left;
+	padding: 5px;
+	margin: 100px 20px 30px 100px;*/
+}
+.Father{
+	border:2px solid red;
+	width:750px;
+	height:100px;
+	position: absolute;
+	top:200px;
+    left:100px;
+
+	/*float: left;
+	padding: 5px;
+	margin: 100px 400px 50px 100px;*/
+}
+.Mother{
+	border:2px solid red;
+	width:750px;
+	height:250px;
+	position: absolute;
+	top:500px;
+    left:100px;
+}

@@ -1,0 +1,62 @@
+body{
+	background-image: url(../Images/background.png);
+}
+
+nav{
+
+width: 650px;
+height: 50px;
+margin: 20px 20px 20px 20px;
+margin-left:auto;
+margin-right:auto;
+vertical-align: middle;
+}
+nav ul li {
+	list-style: none;
+	float: left;
+	margin-left: 50px;
+
+}
+ul li a:hover{
+
+  background-color:red;
+  color: black;
+}
+nav li a{
+	font-size: 20px;
+	text-decoration: none;
+	
+}
+
+.bannerMain{
+border:6px solid white;
+width: 640px;
+height: 315px;
+margin: 20px 20px 20px 20px;
+margin-left:auto;
+margin-right:auto;
+background-image: url(../Images/rock.jpg); 
+background-repeat: no-repeat;
+}
+
+
+
+.bannerTwo{
+border:6px solid white;
+width: 650px;
+height: 325px;
+margin: 20px 20px 20px 20px;
+margin-left:auto;
+margin-right:auto;
+background-image: url(../Images/content_back.png);
+
+}
+h1,h2{
+	color: white;
+}
+#jkone{
+	margin-left: 10px;
+}
+#jktwo{
+	margin-left: 30px;
+}

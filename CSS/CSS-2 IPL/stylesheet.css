@@ -1,0 +1,244 @@
+/*============LAYOUT SECTION ======================*/
+
+body {
+	background-color: aqua;
+	border-color: green;
+	border-width: 4px;
+	border-style: solid; 
+} 
+#divform{
+  display: table;
+  padding: 16px;
+  background-color: purple;
+  border: solid 2px black;
+}
+/*.imagesidebar{
+  border:1px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 6px;
+  border-bottom-width: thin;
+  clear: right;
+  height: 200px;
+  width: 200px;
+}
+*/
+h1 {
+background-color: yellow;
+ }
+h2 { 
+	background-color: red ;
+}
+h1
+ {
+  border: 1px solid black ;
+  text-shadow: red 10px 5px 10px;
+   }
+
+h2 {
+ border-bottom: 2px solid black; 
+ text-decoration: underline overline;
+ text-align: center;
+ text-shadow: 10px 20px 10px orange;
+}
+
+h3 {
+ border-bottom: 2px solid black; 
+ text-decoration: underline overline;
+ color: #800080;
+ text-align: center;
+}
+#divmain{
+  color: black;
+}
+
+p.Purple 
+{ color: Purple;
+	font-size: 20px;
+	font-style: italic;
+	line-height: 1.3em ;
+}
+
+p.green 
+{ color: green;
+	font-size: 20px;
+	font-family: Geneva;
+    font-weight: lighter;
+ }
+
+p.red
+{
+	background-color: red;
+
+}
+#JP
+{
+	background-color: pink;
+    padding: 20px;
+    border color: black;
+    border width: 2px;
+    border transform-style: solid;
+    font-size: 22px;
+    margin-right: 400px;
+    padding-right: 20px;
+    background-image: url(Images/Trophy.JPG);
+    border-style: ridge;
+    border-radius:20px;
+    cursor: help;
+}
+input
+{
+	background-color: yellow;
+}
+.imagec
+{
+  border:1px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 6px;
+  background-color: #7FFF00;
+  border-bottom-width: thin;
+  
+}
+.highlight{
+  background-color:pink;
+} 
+
+/*This 3 are sudo class*/
+a:link {
+  color: #808080;
+}
+a:visited {
+  color: #000000;
+}
+a:hover{
+color:#0000FF;
+cursor: crosshair;
+}
+.JK{
+    background: #990000;
+    padding: 20px;
+    border color: black;
+    border width: 2px;
+    border transform-style: solid;
+    font-size: 22px;
+    
+}
+#main{
+  background-color: #b3b3ff;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+  background: blue;
+  background: linear-gradient(blue,yellow);
+}
+.JJJ{
+  float: left;
+  margin-right: 30px;
+
+}
+ul {
+  list-style: none;
+  padding:0;
+  margin:0;
+}
+ul li a {
+  text-decoration: none;
+  font-family: Gergia;
+  background-color: #ff00ff;
+ /* display: block;*/
+  width: 200px;
+  padding: 10;
+  border: 1px solid red;
+  border-radius:2px;
+  height: 25px;
+  line-height:25px; 
+  margin: 5px;
+}
+ul li a:hover{
+
+  background-color: #d3d3d3;
+  color: #0000CC;
+}
+#nav{
+  background-color: darkgreen;
+  height: 35px;
+  font-size:25px; 
+  font-weight: bold;
+  font:Tahoma;
+}
+#nav ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  text-align: center;
+}
+#nav li {
+  display: inline;
+  padding: 15px;
+  vertical-align: middle;
+}
+#nav a {
+  text-decoration: none;
+  padding:8px 8px 8px ;
+  color: white;
+  vertical-align: middle;
+}
+#nav a:hover {
+  color: black;
+  
+}
+.video1{
+  height: 400px;
+  width: 800px;
+  padding-top: 10px;
+  padding: 10px 10px 10px 200px;
+}
+.sidebar{
+   background-color: #b3b3ff;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  background: lightgreen;
+  float: right;
+  width: 350px;
+  margin-top: 50px;
+  padding-left: 10px;
+  clear:right;
+  margin-top: 60px;
+  padding-top: 20px;
+  height: 200px;
+}
+
+#footer{
+  background-color: #5c755e;
+  margin: 10px;
+  height: 70px;
+  clear: both;
+  text-align: center;
+  padding: 15;
+  font-size: 90%;
+}
+#footer ul {
+padding: 5px;
+list-style-type: none;
+margin: 10px;
+border-radius: 5px;
+
+}
+#footer ul li {
+  display: inline;
+}
+#footer ul li a {
+  text-decoration: none;
+  font-family: arail;
+  padding:.2em 1em;
+  color: #efe5d0;
+  background-color:blue;
+
+}
+#footer ul li a:hover{
+  color: #000;
+  background: #fff;S
+}

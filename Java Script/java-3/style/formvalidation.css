@@ -1,0 +1,6 @@
+#divform{
+  display: table;
+  padding: 16px;
+  background-color: purple;
+  border: solid 2px black;
+}

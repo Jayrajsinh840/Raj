@@ -1,0 +1,168 @@
+body{
+	background-color: white;
+}
+.wrapper{
+	border:solid 2px black;
+	border-radius: 2px;
+	height: 1000px;
+	width: 800px;
+	margin-left:auto;
+	margin-right: auto;
+}
+.innerwrapper{
+	border:solid 2px black;
+	border-radius: 2px;
+	height: 100px;
+	width: 800px;
+	margin-left:auto;
+	margin-right: auto;
+	background-color: #ffa31a;
+	
+	
+}
+
+nav{
+border: 0px solid red;
+width: 700px;
+height: 50px;
+margin-left: 80px;
+background-color: #ffa31a;
+
+
+}
+nav ul li {
+	list-style: none;
+	float: left;
+	margin-left: 50px;
+
+}
+
+nav li a{
+	font-size: 15px;
+	text-decoration: none;
+	margin-left: 10px;
+	
+}
+
+.petmart{
+	border:solid 2px white;
+	border-radius: 2px;
+	height: 356px;
+	width: 800px;
+	background-image: url(../Images/dog.jpg);
+}
+.div1{
+	border:solid 2px white;
+	border-radius: 2px;
+	height: 250px;
+	width: 390px;
+	display: inline-block;
+	vertical-align: top;
+}
+.div2{
+	border:solid 2px black;
+	border-radius: 2px;
+	height: 250px;
+	width: 395px;
+	display: inline-block;
+}
+.dog{
+border:solid 2px white;
+border-radius:2px;
+height: 120px;
+width: 190px;
+display: inline-block;
+
+}
+.fish{
+	border:solid 2px white;
+	border-radius: 2px; 
+    height: 110px;
+    width:190px;
+    display: inline-block;
+  
+}
+.bird{
+	border:solid 2px white;
+	border-radius: 2px; 
+    height: 110px;
+    width:180px;
+    display: inline-block;
+
+}
+.cat{
+	border:solid 2px white;
+	border-radius: 2px; 
+    height: 120px;
+    width:170px;
+    margin-left: 200px;
+    margin-top: -250px;
+ }
+ .fotterMain{
+ 	border:solid 2px white;
+	border-radius: 2px; 
+    height: 120px;
+    width:800px;
+ }
+ .fotterone{
+ 	border:solid 2px white;
+	border-radius: 2px; 
+    height: 120px;
+    width:260px;
+    display:inline-block;
+ }
+  .fottertwo{
+ 	border:solid 2px white;
+	border-radius: 2px; 
+    height: 120px;
+    width:260px;
+    display:inline-block;
+ }
+  .fotterthree{
+ 	border:solid 2px white;
+	border-radius: 2px; 
+    height: 120px;
+    width:260px;
+    display:inline-block;
+ }
+ .bottomone{
+ 	border:solid 2px white;
+	border-radius: 2px; 
+    height: 150px;
+    width:190px;
+    display: inline-block;
+ }
+  .bottomtwo{
+ 	border:solid 2px white;
+	border-radius: 2px; 
+    height: 150px;
+    width:190px;
+    display: inline-block;
+ }
+  .bottomthree{
+ 	border:solid 2px white;
+	border-radius: 2px; 
+    height: 150px;
+    width:190px;
+    display: inline-block;
+ }
+ .bottomfour{
+ 	border:solid 2px white;
+	border-radius: 2px; 
+    height: 150px;
+    width:180px;
+   display: inline-block;
+ }
+ .petlogo{
+ 	border:solid 2px #ffa31a;
+	border-radius: 2px; 
+    height: 30px;
+    width:130px;
+    margin-left: 100px;
+
+ }
+ .puppydiv{
+ 	color: black;
+ 	font-size: 10px;
+ 	margin-top:10px; 
+ }
